@@ -11,7 +11,7 @@ pipeline {
         stage('gitclone') {
         
             steps {
-                git 'https://github.com/MedalMan/CloudFlyers.git'
+                git 'https://github.com/MedalMan/Ctrl-X-Repo.git'
             }
         }
         
